@@ -3,8 +3,9 @@ h1 {
 }
 
 .btn {
-  font-size: 2em;
+  font-size: 2rem;
   padding: 1rem 1.5rem;
+  font-weight: bold;
 }
 
 @media (min-width: 992px) {
